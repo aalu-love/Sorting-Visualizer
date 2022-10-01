@@ -1,0 +1,32 @@
+body{
+    background:#2a2a2a;
+}
+ 
+.card{
+    width: 40%;
+    margin: 2px;
+    display: -webkit-inline-box;
+}
+
+.array-container{
+    position: absolute;
+    left: 1000px;
+}
+
+.array-bar{
+    width: 2px;
+    background-color: rgb(255 0 247);
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.array-bars{
+width: 100%;
+}
+
+.input-box{
+    margin: 10;
+}
+.btn-outline-primary{
+    margin: 2px;
+}

@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.app-header{
+  background-color:#61dafb;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  width: 100%;
+}
+
+.app-header span{
+  float: right;
+  font-family: monospace;
+  margin-right: 10px;
+}
